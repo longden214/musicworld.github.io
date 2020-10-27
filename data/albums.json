@@ -1,0 +1,27 @@
+[
+    {
+        "Image":"album1.jpg",
+        "NameAlbum":"Bloodlust",
+        "NameArtists":"Ava Cornish & Brian Hill"
+    },
+    {
+        "Image":"album2.jpg",
+        "NameAlbum":"Time flies",
+        "NameArtists":"Ava Cornish & Brian Hill"
+    },
+    {
+        "Image":"album3.jpg",
+        "NameAlbum":"Dark matters",
+        "NameArtists":"Ava Cornish & Brian Hill"
+    },
+    {
+        "Image":"album10.jpg",
+        "NameAlbum":"Eye to eye",
+        "NameArtists":"Ava Cornish & Brian Hill"
+    },
+    {
+        "Image":"album6.jpg",
+        "NameAlbum":"Rock",
+        "NameArtists":"Ava Cornish & Brian Hill"
+    }
+]

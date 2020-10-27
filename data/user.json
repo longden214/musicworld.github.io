@@ -1,0 +1,17 @@
+[
+    {
+    	"Name" : "Quang Long",
+    	"Email": "ahihi@gmail.com",
+        "Password":"12345678"
+    },
+     {
+    	"Name" : "Quang Dat",
+    	"Email": "ahoho@gmail.com",
+        "Password":"12345678"
+    },
+     {
+    	"Name" : "Kim Lien",
+    	"Email": "ahaha@gmail.com",
+        "Password":"12345678"
+    }
+]
